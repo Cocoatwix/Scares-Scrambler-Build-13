@@ -1,4 +1,4 @@
-Hey! Thanks for trying out the Scares Scramber! If you're not sure how to work this thing, then watch the tutorial videos I made (which may or may not be released yet, depending on when you're using this). 
+Hey! Thanks for trying out the Scares Scramber! If you're not sure how to work this thing, then watch the tutorial videos I made, the first of which you can see at https://www.youtube.com/watch?v=MOQykOsMeEU .
 
 If you think the corrupter has frozen, give it a couple seconds. Since Python is an interpreted language, the corrupter may be a bit slow when corrupting bigger files. It is possible that we missed a bug in the code, so if you really, really think it crashed, then don't be afraid to tell me or look in the code to investigate!
 
