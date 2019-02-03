@@ -3,7 +3,7 @@ The files and stuff for the Scares Scrambler Build 13
 
 
 Hey! Thanks for trying out the Scares Scramber! If you're not sure how to work this thing,
-then [watch the tutorial video I made](https://www.youtube.com/watch?v=MOQykOsMeEU).
+then go watch this tutorial or something idk: https://www.youtube.com/watch?v=MOQykOsMeEU
 
 If you think the corrupter has frozen, give it a couple seconds. Since Python is an interpreted
 language, the corrupter may be a bit slow when corrupting bigger files. It is possible that we
