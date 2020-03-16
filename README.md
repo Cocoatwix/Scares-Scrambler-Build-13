@@ -1,6 +1,8 @@
 # Scares-Scrambler-Build-13
 The files and stuff for the Scares Scrambler Build 13
 
+Romanian Translation (by TheTechnoGuy18): https://github.com/TheTechnoGuy18/ScaresScrambler_Custom
+
 
 Hey! Thanks for trying out the Scares Scramber! If you're not sure how to work this thing,
 then go watch this tutorial or something idk: https://www.youtube.com/watch?v=MOQykOsMeEU
