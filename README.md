@@ -1,3 +1,5 @@
+# THIS IS AN OUTDATED VERSION. NEW VERSION HERE: https://github.com/Cocoatwix/Scares-Scrambler-S
+
 # Scares-Scrambler-Build-13
 The files and stuff for the Scares Scrambler Build 13
 
